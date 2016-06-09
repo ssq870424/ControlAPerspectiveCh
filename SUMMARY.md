@@ -11,4 +11,5 @@
 * [2.3 工业过程控制](23_Industrial_process_control.md)
 * [2.4 船舶驾驶](24_Ship_steering.md)
 * [2.5 飞行控制](25＿Flight＿control.md)
+* 2.6长途电话
 

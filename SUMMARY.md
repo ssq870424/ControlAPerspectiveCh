@@ -12,5 +12,5 @@
 * [2.4 船舶驾驶](24_Ship_steering.md)
 * [2.5 飞行控制](25＿Flight＿control.md)
 * [2.6 长途电话](26_Lon_ distance_telephony.md)
-* 2.7 早期的机电计算机
+* [2.7 早期的机电计算机](27_Early_electro-mechanical_computers.md)
 

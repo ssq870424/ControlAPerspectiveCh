@@ -9,3 +9,5 @@
 　　Vyshnegradskii的研究成果被Stodola用来设计水轮机调速器。他用到了更复杂的模型还求助了他在苏黎士联邦理工学院（ETH）的同事赫尔维茨（Hurwitz），后者主要帮助做稳定性分析。赫尔维茨用不同于劳斯的其他方法推导出一个一般性的稳定性判据(Hurwitz, 1895)，即今天众所周知的结论—劳斯-赫尔维茨判据。Stodola还引入了无量纲变量和时间常数。Andronov(1978)、Bennett(1979)、Bissell(1989)和Profos(1976)提供了关于麦克斯韦和Vyshnegradskii工作的有趣观点。这时的科学家们很少互动(Gantmacher, 1960, p.172–173)。劳斯和赫尔维茨没有意识到彼此的贡献，而且他们也采用了不同的数学技巧 (Lyapunov,1892)。Stodola只是在他后来的文章中提到了劳斯(Andronov, 1978)。
   
 　　19世纪初期牢固建立了控制带调速器机器的工程学基础。许多公司发明和制造了调速器。据Bennett(1979, page74)说，在1868年，英格兰安装了75000多台调速器。人们理解了比例积分和微分的作用并将其应用在机械和液压装置上。这些理论基础是建立在麦克斯韦、Vyshnegradskii和劳斯-赫尔维茨判据的研究成果上。控制的教育是从少数大学开始的。Tolle在1905年将研究成果编辑到教科书《Der Regelung der Kraftmaschinen (Control of Power Machines)》中。分析和设计都是在线性化和检验特征方程根的基础上。在1909年，莫斯科大学的空气动力学家Joukowski出版了第一本控制方面的俄文书《The Theory of Regulating the Motion of Machines》。
+
+（。。。。译）

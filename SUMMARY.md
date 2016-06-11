@@ -19,5 +19,5 @@
 * [3.3 从机械计算机到电子计算机](33_From_mechanical_to_electronic_computers.md)
 * [3.4 通信](34_Communication.md)
 * [3.5 研究实验室和机构的增长](35_The_growth_of_institutions_and_research_labs.md)
-* 3.6 控制教育的开端
+* [3.6 控制教育的开端](36_The_onset_of_control_education.md)
 

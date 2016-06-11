@@ -14,5 +14,5 @@
 * [2.6 长途电话](26_Lon_ distance_telephony.md)
 * [2.7 早期的机电计算机](27_Early_electro-mechanical_computers.md)
 * [3.领域初现](3_The_field_emerges.md)
-* 3.1 伺服控制理论的发展
+* [3.1 伺服控制理论的发展](31_The_development_of_servomechanism_theory.md)
 

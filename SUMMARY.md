@@ -18,4 +18,5 @@
 * [3.2 伺服控制理论的广泛适用性](32_The_wide_applicability_of_servomechanism_theory.md)
 * [3.3 从机械计算机到电子计算机](33_From_mechanical_to_electronic_computers.md)
 * [3.4 通信](34_Communication.md)
+* 3.5 研究实验室和机构的增长
 

@@ -21,4 +21,5 @@
 * [3.5 研究实验室和机构的增长](35_The_growth_of_institutions_and_research_labs.md)
 * [3.6 控制教育的开端](36_The_onset_of_control_education.md)
 * [3.7 专业控制学会的出现](37_The_emergence_of_professional_control_societies.md)
+* 4.黄金时期
 

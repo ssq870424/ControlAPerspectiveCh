@@ -22,5 +22,5 @@
 * [3.6 控制教育的开端](36_The_onset_of_control_education.md)
 * [3.7 专业控制学会的出现](37_The_emergence_of_professional_control_societies.md)
 * [4.黄金时期](4_Golden_Age.md)
-* 4.1 太空竞赛
+* [4.1 太空竞赛](41_The space race.md)
 

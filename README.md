@@ -8,7 +8,7 @@
 翻译团队：```一字并肩王、。。。。、爻King灬、、有梦才能飞翔、luoshi006、yestoday、进、TT、Hu1-Hui、黎明、阿伦、
 						 Warsmoke、hez、小小烛光、夜行```
 
-* 审校：一字并肩王
+* 审校：一字并肩王、Calvin - CMU - Robotics
 
 * 美化：来风
 

@@ -5,7 +5,7 @@
 
 **网站地址：https://ssq870424.gitbooks.io/control_a_perspective_ch/content/ChVerPreface.html**
 
-翻译团队：```一字并肩王、。。。。、爻King灬、、有梦才能飞翔、luoshi006、yestoday、进、TT、Hu1-Hui、黎明、阿伦、
+翻译团队：```一字并肩王、Calvin - CMU - Robotics、。。。。、爻King灬、、有梦才能飞翔、luoshi006、yestoday、进、TT、Hu1-Hui、黎明、阿伦、
 						 Warsmoke、hez、小小烛光、夜行```
 
 * 审校：一字并肩王、Calvin - CMU - Robotics

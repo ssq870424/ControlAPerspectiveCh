@@ -8,7 +8,7 @@
 
 	下面引用了1962年Herman Goldstine——位于Yorktown Heights的IBM研究院（IBM Research）的数学组组长（Head of the Mathematics Department）——在员工会议上传达的观点来展现关于计算技术的剧烈影响：
 
-	**“当东西改变两个数量级时，那不叫改革，而是革命！”**
+	“当东西改变两个数量级时，那不叫改革，而是革命！”
 
 	结合Goldstein的说法和Moore定律，就知道自1971年后计算机每十年就庆祝了一次“革命”。这对如何设计和实现控制系统有着剧烈的影响。
 

@@ -26,3 +26,4 @@
 * [4.2 计算机控制](42_Computer_control.md)
 * [4.3 汽车行业应用](43_Automotive_applications.md)
 * [4.4 最优控制](44_Optimal_control.md)
+* [4.5 动态规划](45_Dynamic_programming.md)

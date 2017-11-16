@@ -23,5 +23,5 @@
 * [3.7 专业控制学会的出现](37_The_emergence_of_professional_control_societies.md)
 * [4.黄金年代](4_Golden_Age.md)
 * [4.1 太空竞赛](41_The space race.md)
-* [4.2计算机控制](42ji-suan-ji-kong-zhi.md)
+* [4.2计算机控制](4242_Computer_control.md)
 

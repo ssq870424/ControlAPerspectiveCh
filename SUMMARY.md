@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [译者序](ChVerPreface.md)
-* [作者简历](Authors' profile.md)
+* \[作者简历\]\(Authors' profile.md\)
 * [摘要](Abstract.md)
 * [1.简介](1_introduction.md)
 * [2.初尝反馈控制威力](2＿Tasting the power of feedback control.md)
@@ -21,6 +21,6 @@
 * [3.5 研究实验室和机构的增长](35_The_growth_of_institutions_and_research_labs.md)
 * [3.6 控制教育的开端](36_The_onset_of_control_education.md)
 * [3.7 专业控制学会的出现](37_The_emergence_of_professional_control_societies.md)
-* [4.黄金时期](4_Golden_Age.md)
+* [4.黄金年代](4_Golden_Age.md)
 * [4.1 太空竞赛](41_The space race.md)
 

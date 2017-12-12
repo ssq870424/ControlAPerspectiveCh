@@ -4,11 +4,11 @@
 
 　模型的重新设定自然提出了两个问题：能否通过选择合适的控制信号到达所有的状态；是否能够通过测量输出重建状态。卡尔曼摆出了这些问题并且定义了能达性和能观性(Gilbert, 1963; Kalman, 1961b, 1963a; Kalman, Ho, & Narendra, 1963)。卡尔曼的结果对于线性微分方程和相关传递函数的关系也提供了清晰图景，还扫清了关于传递函数中零极点对消效果的疑问。
 
-　经典背景下关于线性反馈系统结构的研究也出现了。Horowitz（1963）引入了一个控制器架构，有两个自由度，结合了反馈和前馈，这样指令信号跟随的需求可以从鲁棒性和扰动衰减的需求中分离出来。伺服控制也在状态空间模型中进行了分析 (Davison, 1976)。
+　经典背景下关于线性反馈系统结构的研究也出现了。Horowitz（1963）引入了一个控制器架构，有两个自由度，结合了反馈和前馈，从而使指令信号跟随的需求可以从鲁棒性和扰动衰减的需求中分离出来。伺服控制也在状态空间模型中进行了分析 (Davison, 1976)。
 
-　线性系统理论大量吸收了线性代数、矩阵论和多项式矩阵理论。数值线性代数的结论也能够被用于计算（Laub, Patel,&VanDooren,1994）。当状态空间理论加入到经典教材上的伺服系统（Dorf, 1980; Franklin, Powell, & Emami-Naeini,1986; Kuo, 1962; Ogata, 1970），教科书的规模也达到了700多页。
+　线性系统理论严重依赖于线性代数、矩阵理论和多项式矩阵。数值线性代数的结果也可以利用于计算（Laub, Patel,&VanDooren,1994）。当关于状态空间理论的章节加入到经典的伺服控制资料中时，教材的篇幅增加到了700页甚至更多。（Dorf, 1980; Franklin, Powell, & Emami-Naeini,1986; Kuo, 1962; Ogata, 1970），教材的篇幅增加到了700页甚至更多。
 
-　标准的状态空间理论中，状态空间是欧氏空间，时间是时域变量。*环上系统*（systems over rings）的扩展被建立（Kalman, Falb, & Arbib, 1969）。一个线性系统的统一框架，有限状态机和自动机（automata ）能够成立。Lee 和 Varaiya (2003)介绍信号与系统的书在此精神下完成。Ramadge 和 Murray Wonham (1987)开创一个离散事件系统理论，以解决自动机和形式语言模型中控制理论的能控性、能观性、聚合、分散和分级控制概念（Boel & Stremersch, 2012; Ramadge & Wonham, 1989; Seatzu,Silva, & van Schuppen, 2012）。最近，出现了结合连续和离散的混合系统（Brockett,1993; Goebel, Sanfelice, & Teel, 2012; Maler, 2010）研究热潮。
+　标准的状态空间理论中，状态空间是欧氏空间，时间是时域变量。环上系统（systems over rings）的扩展被建立（Kalman, Falb, & Arbib, 1969）。一个线性系统的统一框架，有限状态机和自动机（automata ）能够成立。Lee 和 Varaiya (2003)介绍信号与系统的书在此精神下完成。Ramadge 和 Murray Wonham (1987)开创一个离散事件系统理论，以解决自动机和形式语言模型中控制理论的能控性、能观性、聚合、分散和分级控制概念（Boel & Stremersch, 2012; Ramadge & Wonham, 1989; Seatzu,Silva, & van Schuppen, 2012）。最近，出现了结合连续和离散的混合系统（Brockett,1993; Goebel, Sanfelice, & Teel, 2012; Maler, 2010）研究热潮。
 
 　奇异摄动理论（Kokotovic, Khalil, & O’Reilly, 1986）和广义线性系统（Duan, 2010）被提出，用于解决有不同时间尺度的系统。微分代数系统被用于大型电路建模（Gear, 1971）。受电路理论的启发，Willems (Polderman& Willems, 1990)提出了行为系统的系统模型，它削弱了输入输出的影响，同时也被描述为微分代数系统。微分代数方程是模拟物理系统的天然框架，它是建模语言Modelica（Tiller, 2001）的数学框架。无穷维动力系统有大量的文献（Banks, Fabiano, & Ito, 1993; Bensoussan, Da Prato, Delfour,& Mit-ter, 1992; Curtain & Zwart, 1991; Lions, 1971）流体流量控制是其中一个应用领域（Aamo & Krstić, 2002）。
 

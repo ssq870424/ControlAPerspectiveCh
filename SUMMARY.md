@@ -28,3 +28,4 @@
 * [4.4 最优控制](44_Optimal_control.md)
 * [4.5 动态规划](45_Dynamic_programming.md)
 * [4.6 动态博弈](46_Dynamic_games.md)
+* [4.7 线性系统](47_Linear_systems.md)

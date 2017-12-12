@@ -1,5 +1,5 @@
 ### 4.6. 动态博弈
 
 　　冯.诺依曼是博弈论的先驱，他试图以此建立经济行为的基础(von Neumann & Morgenstern, 1947)。他分析了一方代价是另一方代价相反数的静态二人零和博弈，以及具有各方都追求最小化同样代价判据的静态团队问题。对于各方只有有限数量选择的二人零和“矩阵博弈”，他证明了在随机化的策略中存在一个鞍点（von Neumann, 1928）。随后，纳什（1951）对于非静态零和博弈证明了一个相似的结果。
-与贝尔曼在兰德智库发展动态规划的同时，Rufus Isaacs正在研究动态连续时间二人零和博弈。“Isaacs方程”是一个双方版本的哈密顿-雅可比方程（Isaacs, 0000, 1975）。该微分对策理论被用在如“斗狗”和“坦克大战”等军事问题中（Ho, Bryson, & Baron, 1965; Zachrisson, 1964），之后被用于鲁棒控制（Başar & Bernhard, 1991）。
-Shapley (1953) 和 Everett (1957) 几乎同时研究了离散时间的博弈。Zachrisson (1964)对于Markov对策提供了一个特别令人信服的解决方案。对于纳什平衡点、Pareto最优性、Stackberg解和动态博弈内在驱动力的研究兴趣随后又持续了几十年（Başar & Olsder, 1982; Ho, Luh, & Muralidharan, 1981; Simaan & Cruz, 1973; Starr & Ho, 1969）。
+    与贝尔曼在兰德智库发展动态规划的同时，Rufus Isaacs正在研究动态连续时间二人零和博弈。“Isaacs方程”是一个双方版本的哈密顿-雅可比方程（Isaacs, 0000, 1975）。该微分对策理论被用在如“斗狗”和“坦克大战”等军事问题中（Ho, Bryson, & Baron, 1965; Zachrisson, 1964），之后被用于鲁棒控制（Başar & Bernhard, 1991）。
+    Shapley (1953) 和 Everett (1957) 几乎同时研究了离散时间的博弈。Zachrisson (1964)对于Markov对策提供了一个特别令人信服的解决方案。对于纳什平衡点、Pareto最优性、Stackberg解和动态博弈内在驱动力的研究兴趣随后又持续了几十年（Başar & Olsder, 1982; Ho, Luh, & Muralidharan, 1981; Simaan & Cruz, 1973; Starr & Ho, 1969）。

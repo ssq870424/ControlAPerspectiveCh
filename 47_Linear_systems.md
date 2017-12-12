@@ -8,7 +8,7 @@
 
 　线性系统理论严重依赖于线性代数、矩阵理论和多项式矩阵。数值线性代数的结果也可以利用于计算（Laub, Patel,&VanDooren,1994）。当关于状态空间理论的章节加入到经典的伺服控制资料中时，教材的篇幅增加到了700页甚至更多（Dorf, 1980; Franklin, Powell, & Emami-Naeini,1986; Kuo, 1962; Ogata, 1970）。
 
-　在标准的状态空间理论中，状态空间是欧氏空间且时间是实变量。卡尔曼、Falb和Arbid (1969) 将其推广到环上系统。线性系统，有限状态机和自动机的统一框架得以建立。Lee 和 Varaiya (2003)所著信号与系统导论的书秉承了这一精神。Ramadge 和 Murray Wonham (1987)开创了离散事件系统理论，用以解决自动机和形式化语言模型的能控性、能观性、聚集性、分散和分层控制的控制理论概念（Boel & Stremersch, 2012; Ramadge & Wonham, 1989; Seatzu,Silva, & van Schuppen, 2012）。近来，学界对连续和离散行为组合的混合系统（Brockett,1993; Goebel, Sanfelice, & Teel, 2012; Maler, 2010）产生了显著的兴趣。
+　在标准的状态空间理论中，状态空间是欧氏空间且时间是实变量。卡尔曼、Falb和Arbid (1969) 将其推广到环上系统。线性系统，有限状态机和自动机的统一框架得以建立。Lee 和 Varaiya (2003)所著信号与系统导论的书秉承了这一精神。Ramadge 和 Murray Wonham (1987)开创了离散事件系统理论，用以解决自动机和形式化语言模型的能控性、能观性、聚合、分解和分层控制的控制理论概念（Boel & Stremersch, 2012; Ramadge & Wonham, 1989; Seatzu,Silva, & van Schuppen, 2012）。近来，学界对连续和离散行为组合的混合系统（Brockett,1993; Goebel, Sanfelice, & Teel, 2012; Maler, 2010）产生了显著的兴趣。
 
 　奇异摄动理论（Kokotovic, Khalil, & O’Reilly, 1986）和广义线性系统（Duan, 2010）被提出，用于解决大跨度的不同时间尺度系统。微分代数系统被用于大型电路建模（Gear, 1971）。受电路理论的启发，Willems (Polderman& Willems, 1990)提出了行为系统的系统模型，它削弱了输入输出的影响，同时也被描述为微分代数系统。微分代数方程是模拟物理系统的天然框架，也是建模语言Modelica（Tiller, 2001）的数学框架。关于无穷维动力系统有大量的文献（Banks, Fabiano, & Ito, 1993; Bensoussan, Da Prato, Delfour,& Mit-ter, 1992; Curtain & Zwart, 1991; Lions, 1971），流体的流动控制是其中一个应用领域（Aamo & Krstić, 2002）。
 

@@ -30,4 +30,4 @@
 * [4.6 动态博弈](46_Dynamic_games.md)
 * [4.7 线性系统](47_Linear_systems.md)
 * [4.8 状态反馈卡尔曼滤波与 LQG](48_State_Feedback_Kalman_Filtering_and_LQG.md)
-* [4.9 非线性系统](https://github.com/ssq870424/ControlAPerspectiveCh)
+* [4.9 非线性系统](49_Nonlinear_systems.md)
